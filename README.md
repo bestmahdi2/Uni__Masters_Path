@@ -1,32 +1,30 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="45"/> My Master's Path | مسیر ارشد من
 
-**[ 🇮🇷 فارسی ](https://www.google.com/search?q=%23-persian) | [ 🇬🇧 English ](https://www.google.com/search?q=%23-english)**
+**[ 🇮🇷 فارسی ](#-persian) | [ 🇬🇧 English ](#-english)**
 
 -----
 
 <a name="-persian"></a>
-
 <div dir="rtl">
 
 **یک ریپوزیتوری از اطلاعات کامل دروس و پروژه‌های دوره ارشد مهندسی کامپیوتر به همراه لینک پروژه‌ها**
 
 ## 📜 فهرست
 
-  - [🚀 دستاوردهای پیش از ارشد](https://www.google.com/search?q=%23-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B4%D8%AF)
-  - [اطلاعات کلی](https://www.google.com/search?q=%23%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%DA%A9%D9%84%DB%8C)
-  - [لیست کارها](https://www.google.com/search?q=%23%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D8%B1%D9%87%D8%A7)
-  - [نکات](https://www.google.com/search?q=%23%D9%86%DA%A9%D8%A7%D8%AA)
-  - [ترم‌ها](https://www.google.com/search?q=%23%D8%AA%D8%B1%D9%85-1%EF%B8%8F%E2%83%A3-1)
-      - [ترم 1️⃣](https://www.google.com/search?q=%23%D8%AA%D8%B1%D9%85-1%EF%B8%8F%E2%83%A3-1)
-      - [ترم 2️⃣](https://www.google.com/search?q=%23%D8%AA%D8%B1%D9%85-2%EF%B8%8F%E2%83%A3-1)
-      - [ترم 3️⃣](https://www.google.com/search?q=%23%D8%AA%D8%B1%D9%85-3%EF%B8%8F%E2%83%A3-1)
-      - [ترم 4️⃣](https://www.google.com/search?q=%23%D8%AA%D8%B1%D9%85-4%EF%B8%8F%E2%83%A3-1)
+- [دستاوردهای پیش از ارشد](#دستاوردهای_پیش_از_ارشد)
+- [اطلاعات کلی](#اطلاعات-کلی)
+- [لیست کارها](#لیست-کارها)
+- [نکات](#نکات)
+  - [ترم 1️⃣](#ترم-1️⃣-1)
+  - [ترم 2️⃣](#ترم-2️⃣-1)
+  - [ترم 3️⃣](#ترم-3️⃣-1)
+  - [ترم 4️⃣](#ترم-4️⃣-1)
 
 -----
 
 <a name="-دستاوردهای-پیش-از-ارشد"></a>
 
-## 🚀 دستاوردهای پیش از ارشد
+## دستاوردهای پیش از ارشد
 
 مجموعه‌ای از پروژه‌های شاخص که به صورت فریلنسری پیش از شروع دوره کارشناسی ارشد انجام شده‌اند.
 
@@ -138,15 +136,15 @@
 
 ## 📜 Table of Contents
 
-  - [🚀 Pre-Master's Endeavors](https://www.google.com/search?q=%23-pre-masters-endeavors-1)
-  - [General Information](https://www.google.com/search?q=%23general-information)
-  - [To-Do List](https://www.google.com/search?q=%23to-do-list)
-  - [Notes](https://www.google.com/search?q=%23notes)
-  - [Semesters](https://www.google.com/search?q=%23semester-1%EF%B8%8F%E2%83%A3)
-      - [Semester 1️⃣](https://www.google.com/search?q=%23semester-1%EF%B8%8F%E2%83%A3)
-      - [Semester 2️⃣](https://www.google.com/search?q=%23semester-2%EF%B8%8F%E2%83%A3)
-      - [Semester 3️⃣](https://www.google.com/search?q=%23semester-3%EF%B8%8F%E2%83%A3)
-      - [Semester 4️⃣](https://www.google.com/search?q=%23semester-4%EF%B8%8F%E2%83%A3)
+- [Pre-Master's Endeavors](#Pre-Master's_Endeavors)
+- [General Information](#general-information)
+- [To-Do List](#to-do-list)
+- [Notes](#notes)
+- [Semesters](#semester-1️⃣)
+  - [Semester 1️⃣](#semester-1️⃣)
+  - [Semester 2️⃣](#semester-2️⃣)
+  - [Semester 3️⃣](#semester-3️⃣)
+  - [Semester 4️⃣](#semester-4️⃣)
 
 -----
 
